@@ -1,10 +1,10 @@
 {
   "name": "rabbitmq-producer",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple RabbitMQ producer example based on Nest framework.",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
