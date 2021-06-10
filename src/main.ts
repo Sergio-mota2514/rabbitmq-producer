@@ -10,7 +10,7 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
     .setTitle('RabbitMQ Producer example')
-    .setDescription('The cats API description')
+    .setDescription('Simple example of RabbitMQ Producer.')
     .setVersion('1.0')
     .addTag('rabbitMQProducer')
     .build();
